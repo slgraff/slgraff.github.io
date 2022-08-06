@@ -18,8 +18,8 @@ I then used a wire cutter to cut off both ends of the tie. I then used needle no
 | ----------- | -------- |
 | ![IMG_6665](https://user-images.githubusercontent.com/12915136/183268228-56278bf3-76c7-4dae-b7d6-3e7bbf0a48e2.jpeg) | ![IMG_6666](https://user-images.githubusercontent.com/12915136/183268227-fb8cd271-e8da-4348-8536-fd619c297796.jpeg) |
 
-I then guestimated where to bend the wire over, cut off the excess, then bent over the other end 90°. I then installed by by placing inserting the little ends into each hold on the nozzle, then squeezed the wire together. Success!
+I then guestimated where to bend the wire over, cut off the excess, then bent over the other end 90°. I then installed it by inserting the bent over ends into the holes on each side on the nozzle, then squeezed the wire together. Success!
 
 ![IMG_6667](https://user-images.githubusercontent.com/12915136/183268391-a645764f-7ca2-4916-a375-9c317256a193.jpeg)
 
-I thought about measure the length of the wire, but got lazy and didn't do it! If I ever need to make this repair again, maybe I'll do it then. Hopefully this is enough information to help others make this pretty easy repair to your own spray nozzle.
+I thought about measuring the length of the wire, but got lazy and didn't do it! If I ever need to make this repair again, maybe I'll do it then. Hopefully this is enough information to help others make this pretty easy repair to your own spray nozzle.
